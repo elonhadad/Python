@@ -1,6 +1,5 @@
 """
-Student: Elon Hadad 
-ID: 034672139 
+Student: Elon Hadad  
 Assignment no. 1 
 Program: crypto.py 
 """
