@@ -1,6 +1,5 @@
 """
 Student: Elon Hadad
-ID: 034672139
 Assignment no. 3
 Program: python_words.py
 """
