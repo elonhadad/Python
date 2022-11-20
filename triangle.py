@@ -1,6 +1,5 @@
 """
 Student: elon hadad
-ID: 034672139
 Assigmment no. 2
 Program: triangle.py
 """
