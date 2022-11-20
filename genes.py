@@ -1,6 +1,5 @@
 """
 Student: elon hadad
-ID: 034672139
 Assignment no. 2
 Program: genes.py
 """
