@@ -1,6 +1,5 @@
 """
 Student: elon hadad
-ID: 034672139
 Assignment no. 3
 Program: minesweeper.py
 """
