@@ -1,6 +1,5 @@
 """
 Student: elon hadad
-ID: 034672139
 Assigmment no. 1
 Program: arithmetic.py
 """
