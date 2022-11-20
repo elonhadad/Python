@@ -1,6 +1,5 @@
 """
 Student: Elon Hadad
-ID: 034672139
 Assignment no. 2
 Program: grades.py
 """
