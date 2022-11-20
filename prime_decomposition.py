@@ -1,6 +1,5 @@
 """
 Student: elon hadad
-ID: 034672139
 Assignment no. 1
 Program: prime_decomposition.py
 """
