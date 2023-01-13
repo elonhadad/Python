@@ -1,4 +1,2 @@
 # Python
-Computer science student
-
-first year homework
+Computer science student - first year homework
